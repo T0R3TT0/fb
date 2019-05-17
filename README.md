@@ -10,6 +10,6 @@ $ cd fb
 $ python2 Fb.py
 ```
 
-# HACK FB GAN
+
 
 
